@@ -1,6 +1,6 @@
 {
     "work_min": 1,
-    "short_break_min": 5,
+    "short_break_min": 1,
     "long_break_min": 30,
-    "pomodoros": 0
+    "pomodoros": 1
 }
